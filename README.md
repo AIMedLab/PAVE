@@ -3,7 +3,7 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> ** An Interpretable Risk Prediction Model forHealthcare with Pattern Attention (ICIBM2020)**<br>
+> ** An Interpretable Risk Prediction Model forHealthcare with Pattern Attention **<br>
 > Sundreen Asad Kamal, Changchang Yin, Buyue Qian and Ping Zhang <br>
 >
 > **Abstract:** 
